@@ -1,0 +1,65 @@
+a,
+p {
+  font-family: "Roboto", sans-serif !important;
+}
+
+/* Navbar styling */
+
+nav a {
+  color: black !important;
+}
+
+nav .active {
+  text-decoration: underline;
+}
+
+nav a:hover {
+  color: #ffffff !important;
+}
+
+nav .active:hover {
+  text-decoration: underline;
+}
+
+/* Homepage header styling */
+
+header {
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: hidden;
+}
+
+/* Contact section on homepage */
+
+#contact {
+  background-color: #F8F9FA;
+}
+
+/* Footer styling */
+
+footer {
+  background-color: #323232;
+  color: white;
+}
+
+footer svg {
+  color: white;
+}
+
+footer a {
+  text-decoration: none;
+  color: white;
+}
+
+/* Button on cards on projects page */
+
+.btn-grey {
+  background-color: #323232;
+  color: white;
+}
+
+.btn-grey:hover {
+  color: black;
+  background-color: #DDD0C8;
+  /* font-style: italic; */
+}
